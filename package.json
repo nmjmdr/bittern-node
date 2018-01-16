@@ -1,0 +1,19 @@
+{
+  "name": "bittern-node",
+  "version": "1.0.0",
+  "description": "NodeJS implementation of RAFT Leader election",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmjmdr/bittern-node.git"
+  },
+  "author": "nmjmdr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmjmdr/bittern-node/issues"
+  },
+  "homepage": "https://github.com/nmjmdr/bittern-node#readme"
+}
